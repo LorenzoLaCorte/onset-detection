@@ -1,0 +1,60 @@
+
+DURATION=10
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 27.552111691228927%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 14.634963794099189
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.998217421498516%
+
+DURATION=20
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 28.008357344980247%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 21.584816482110146
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 34.60497125243391%
+
+DURATION=30
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 28.92568540440236%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 41.948431966005685
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 34.62177818441263%
+
+DURATION=40
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 26.85733238849853%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 35.10213787137097
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 31.87760495893806%
+
+DURATION=50
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.740952227798854%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 59.9059373920674
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.018586444293845%
+
+DURATION=60
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 25.547672944383756%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 67.80876732455091
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.11407656910212%
+
+DURATION=70
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.90891520088351%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 73.55776162201288
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.15548844268495%
+
+DURATION=80
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.556892704805154%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 61.17045428359914
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.74830571811862%
+
+DURATION=90
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.683547559800243%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 59.9994026836309
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.55576623731662%
+
+DURATION=100
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.396000985544653%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 58.97144643601352
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.31222265014688%
+
+DURATION=110
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.117919410863824%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 60.90244681112248
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.272083009431164%
+
+DURATION=120
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.116547578587394%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 65.13961696106315
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 32.223247609506615%

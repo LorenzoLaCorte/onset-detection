@@ -1,0 +1,132 @@
+
+DURATION=10
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: brahms
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: fishin
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: nutcracker
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 26.76096173999279%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 16.135311393651413
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 26.124534583773713%
+
+DURATION=20
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: sweetwaltz
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: libri2
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: libri3
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: humpback
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 26.697938010988903%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 20.51689229669285
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 27.09998549802672%
+
+DURATION=30
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: libri3
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: nutcracker
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: humpback
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 27.466984375253553%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 38.09980745198378
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 27.503757352149314%
+
+DURATION=40
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: nutcracker
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: libri3
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 26.029741279585927%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 38.49245879245529
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.591836898225683%
+
+DURATION=50
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: vibeace
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.71010160066442%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 58.08803653711845
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.638677541193807%
+
+DURATION=60
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: libri3
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 24.30268616811471%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 67.37324860780839
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.826541104008278%
+
+DURATION=70
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.66682817299585%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 73.7084128197008
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.602892129575647%
+
+DURATION=80
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.43065304918724%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 64.90309789592735
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 30.260143820015063%
+
+DURATION=90
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.44954243657775%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 60.48041226817413
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 30.06336518433225%
+
+DURATION=100
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.140861209162495%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 58.35141007536077
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.870528608698052%
+
+DURATION=110
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 23.090070752200045%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 59.95705290241291
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.815554508473177%
+
+DURATION=120
+Traccia Peggiore sulla differenza in numero di onset tra Librosa e l'implementazione: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset di Librosa e Implementazione: humpback
+Traccia Peggiore sulla vicinanza di onset tra Librosa e Implementazione: fishin
+Traccia Migliore sulla differenza in numero di onset tra Librosa e l'implementazione: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset di Librosa e Implementazione: pistachio
+Traccia Migliore sulla vicinanza di onset tra Librosa e Implementazione: pistachio
+Media Generale sulla differenza in numero di onset tra Librosa e l'implementazione: 22.943416903091972%
+Media Generale sulla differenza tra le medie degli onset di Librosa e Implementazione: 62.52416392231824
+Media Generale sulla vicinanza di onset tra Librosa e Implementazione: 29.810936487100303%
