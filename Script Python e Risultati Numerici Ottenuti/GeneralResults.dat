@@ -1,0 +1,177 @@
+
+DURATION=10
+
+Lista delle differenze in numero di onset rispetto a Librosa: [65.0, 10.526315789473683, 25.0, 86.66666666666667, 28.26086956521739, 13.953488372093023, 17.647058823529413, 27.27272727272727, 3.7037037037037033, 7.6923076923076925, 11.11111111111111, 31.25, 16.666666666666664]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [11.48333333333332, 0.48297213622291224, 3.3472222222222285, 59.06666666666666, 20.025032938076436, 7.851037083595202, 0.13585434173668887, 18.579545454545467, 7.750712250712269, 0.8269230769230802, 9.75, 6.0, 1.1285714285714334]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: libri3
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 26.519301204884357%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 11.263682379431206
+
+DURATION=20
+
+Lista delle differenze in numero di onset rispetto a Librosa: [61.81818181818181, 18.75, 25.842696629213485, 88.46153846153845, 28.169014084507044, 12.121212121212121, 22.058823529411764, 33.33333333333333, 0.0, 7.6923076923076925, 22.22222222222222, 31.25, 13.414634146341465]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [6.797402597402595, 3.1278846153845734, 41.6983316309159, 59.012820512820554, 12.608671637669147, 3.668756530825476, 13.014150943396203, 60.450000000000045, 1.4615384615384528, 0.8269230769230802, 68.27210884353741, 6.0, 42.9177258673995]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: sweetwaltz
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: robin
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 28.087228002943796%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 24.604331901370227
+
+DURATION=30
+
+Lista delle differenze in numero di onset rispetto a Librosa: [65.18987341772153, 19.387755102040817, 16.153846153846153, 91.17647058823529, 28.169014084507044, 12.121212121212121, 22.058823529411764, 22.22222222222222, 1.0638297872340425, 7.6923076923076925, 30.8411214953271, 31.25, 21.897810218978105]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [56.45765247410816, 6.219969000258402, 16.128934368383852, 213.99019607843144, 12.608671637669147, 3.668756530825476, 13.014150943396203, 64.13227513227514, 0.3294440631434554, 0.8269230769230802, 120.53687799949489, 6.0, 33.49962480387478]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 28.40186818561876%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 42.10872893144493
+
+DURATION=40
+
+Lista delle differenze in numero di onset rispetto a Librosa: [60.946745562130175, 19.387755102040817, 21.142857142857142, 90.0, 28.169014084507044, 12.121212121212121, 22.058823529411764, 21.69811320754717, 1.4492753623188406, 7.6923076923076925, 14.184397163120568, 31.25, 23.93617021276596]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [125.6186121570737, 6.219969000258402, 60.656521739130426, 114.20000000000005, 12.608671637669147, 3.668756530825476, 13.014150943396203, 142.61263923619003, 0.42284739982949304, 0.8269230769230802, 9.63788757986049, 6.0, 13.968977830679933]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: nutcracker
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 27.233590090786095%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 39.188919779372036
+
+DURATION=50
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 17.78846153846154, 91.66666666666666, 28.169014084507044, 12.121212121212121, 22.058823529411764, 12.698412698412698, 3.4682080924855487, 7.6923076923076925, 3.6363636363636362, 31.25, 25.847457627118644]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 50.296390013495284, 326.41666666666674, 12.608671637669147, 3.668756530825476, 13.014150943396203, 215.1486291486292, 11.053096119898782, 0.8269230769230802, 144.0507718696399, 6.0, 2.7945278450363276]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: pistachio
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: robin
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 25.72035111121484%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 75.0073143913411
+
+DURATION=60
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 10.72961373390558, 92.3076923076923, 28.169014084507044, 12.121212121212121, 22.058823529411764, 12.5, 5.092592592592593, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 1.0553194123472167, 429.8076923076924, 12.608671637669147, 3.668756530825476, 13.014150943396203, 310.0761278195489, 1.678003613369583, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: sweetwaltz
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: robin
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 25.487858297329918%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 86.10606588854596
+
+DURATION=70
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 8.550185873605948, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 5.487804878048781, 5.179282868525896, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 14.052392178196897, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 375.3503540519275, 1.1671130603635902, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: sweetwaltz
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: robin
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 24.79864331076603%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 94.45837932147641
+
+DURATION=80
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 6.535947712418301, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 4.5, 5.138339920948617, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 11.81116595822482, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 193.68217277486883, 0.5545454545454049, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: sweetwaltz
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 24.564567465626514%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 80.2643812366419
+
+DURATION=90
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 6.358381502890173, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 6.896551724137931, 5.138339920948617, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 19.238225219439073, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 134.95785440613008, 0.5545454545454049, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: sweetwaltz
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 24.735258659058033%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 76.31843822837077
+
+DURATION=100
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 5.333333333333334, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 10.646387832699618, 5.138339920948617, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 25.21130516431913, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 144.49627052827464, 0.5545454545454049, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: sweetwaltz
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 24.944857731289176%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 77.5116302335265
+
+DURATION=110
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 3.25, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 13.85135135135135, 5.138339920948617, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 10.676582687338396, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 92.0751457339693, 0.5545454545454049, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: fishin
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 25.03113697631367%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 72.36118044342757
+
+DURATION=120
+
+Lista delle differenze in numero di onset rispetto a Librosa: [58.57988165680473, 19.387755102040817, 1.8518518518518516, 92.45283018867924, 28.169014084507044, 12.121212121212121, 22.058823529411764, 16.08832807570978, 5.138339920948617, 7.6923076923076925, 3.6363636363636362, 31.25, 27.816901408450708]
+Lista delle differenze tra le medie degli onset rispetto a Librosa: [182.9965342349958, 6.219969000258402, 25.49191998602373, 460.62735849056594, 12.608671637669147, 3.668756530825476, 13.014150943396203, 63.74727829036283, 0.5545454545454049, 0.8269230769230802, 144.0507718696399, 6.0, 7.375936104431503]
+
+Traccia Peggiore sulla differenza in numero di onset rispetto a Librosa: humpback
+Traccia Peggiore sulla differenza tra le medie degli onset rispetto a Librosa: humpback
+
+Traccia Migliore sulla differenza in numero di onset rispetto a Librosa: fishin
+Traccia Migliore sulla differenza tra le medie degli onset rispetto a Librosa: pistachio
+
+Media Generale sulla differenza in numero di onset rispetto a Librosa: 25.095662251406768%
+Media Generale sulla differenza tra le medie degli onset rispetto a Librosa: 71.32175504766441
+
+
+Lista delle migliori traccie sul numero di onset rispetto a Librosa: ['humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback', 'humpback']
+
+Lista delle migliori traccie sul numero di onset rispetto a Librosa: ['pistachio', 'pistachio', 'pistachio', 'pistachio', 'pistachio', 'sweetwaltz', 'sweetwaltz', 'sweetwaltz', 'sweetwaltz', 'sweetwaltz', 'fishin', 'fishin']
+
+Lista delle medie generali sulle differenze in numero di onset rispetto a Librosa: [26.519301204884357, 28.087228002943796, 28.40186818561876, 27.233590090786095, 25.72035111121484, 25.487858297329918, 24.79864331076603, 24.564567465626514, 24.735258659058033, 24.944857731289176, 25.03113697631367, 25.095662251406768]
+
+Lista delle medie generali sulle differenze tra le medie degli onset rispetto a Librosa: [11.263682379431206, 24.604331901370227, 42.10872893144493, 39.188919779372036, 75.0073143913411, 86.10606588854596, 94.45837932147641, 80.2643812366419, 76.31843822837077, 77.5116302335265, 72.36118044342757, 71.32175504766441]

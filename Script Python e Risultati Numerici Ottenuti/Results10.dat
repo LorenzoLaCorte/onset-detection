@@ -1,0 +1,312 @@
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 0: brahms
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+21
+Numero di Onset dell'Implementazione: 
+60
+Differenza in Percentuale: 
+65.0%
+
+Librosa: 
+[6, 13, 24, 42, 62, 80, 109, 116, 144, 160, 170, 205, 229, 266, 299, 317, 336, 354, 368, 378, 403]
+Implementazione: 
+[12, 15, 24, 28, 34, 48, 53, 61, 66, 69, 72, 79, 84, 88, 97, 106, 112, 120, 125, 132, 138, 142, 154, 160, 168, 172, 178, 187, 195, 203, 209, 212, 218, 223, 228, 231, 240, 246, 256, 265, 273, 282, 285, 290, 298, 315, 328, 333, 343, 349, 353, 359, 362, 368, 375, 383, 390, 393, 402, 418]
+
+Confronto tra le Medie degli Array di Onset: 11.48333333333332
+
+Media dei confronti tra onset (in frame) vicini 10: 4.95
+In percentuale con il fattore di vicinanza per la comparazione: 49.5%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 1: choice
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+38
+Numero di Onset dell'Implementazione: 
+34
+Differenza in Percentuale: 
+10.526315789473683%
+
+Librosa: 
+[3, 21, 26, 38, 40, 59, 68, 77, 88, 95, 105, 115, 135, 144, 153, 173, 183, 191, 211, 220, 230, 239, 248, 258, 267, 278, 287, 305, 325, 332, 343, 363, 372, 381, 392, 400, 411, 419]
+Implementazione: 
+[26, 36, 39, 67, 76, 86, 94, 97, 103, 106, 114, 124, 132, 144, 153, 172, 182, 189, 218, 238, 246, 256, 266, 294, 303, 331, 334, 342, 371, 380, 391, 400, 409, 418]
+
+Confronto tra le Medie degli Array di Onset: 0.48297213622291224
+
+Media dei confronti tra onset (in frame) vicini 10: 4.32258064516129
+In percentuale con il fattore di vicinanza per la comparazione: 43.225806451612904%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 2: fishin
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+36
+Numero di Onset dell'Implementazione: 
+48
+Differenza in Percentuale: 
+25.0%
+
+Librosa: 
+[10, 19, 25, 34, 48, 55, 70, 83, 91, 106, 114, 121, 142, 164, 171, 179, 186, 201, 208, 222, 230, 238, 245, 258, 267, 280, 287, 303, 316, 324, 339, 347, 375, 397, 405, 420]
+Implementazione: 
+[9, 15, 18, 24, 31, 38, 47, 53, 61, 68, 77, 84, 90, 105, 112, 118, 125, 135, 142, 148, 162, 170, 178, 183, 186, 199, 207, 221, 228, 243, 249, 257, 265, 280, 287, 301, 317, 323, 339, 345, 352, 358, 374, 381, 396, 403, 418, 424]
+
+Confronto tra le Medie degli Array di Onset: 3.3472222222222285
+
+Media dei confronti tra onset (in frame) vicini 10: 2.5142857142857142
+In percentuale con il fattore di vicinanza per la comparazione: 25.142857142857146%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 3: humpback
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+2
+Numero di Onset dell'Implementazione: 
+15
+Differenza in Percentuale: 
+86.66666666666667%
+
+Librosa: 
+[3, 357]
+Implementazione: 
+[76, 82, 87, 90, 101, 200, 216, 235, 248, 259, 381, 387, 394, 408, 422]
+
+Confronto tra le Medie degli Array di Onset: 59.06666666666666
+
+Media dei confronti tra onset (in frame) vicini 10: 10
+In percentuale con il fattore di vicinanza per la comparazione: 100.0%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 4: libri1
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+46
+Numero di Onset dell'Implementazione: 
+33
+Differenza in Percentuale: 
+28.26086956521739%
+
+Librosa: 
+[14, 16, 22, 32, 43, 56, 60, 73, 81, 90, 95, 100, 109, 114, 125, 130, 146, 154, 162, 182, 208, 216, 221, 228, 242, 252, 259, 268, 273, 279, 292, 307, 312, 320, 326, 334, 342, 359, 368, 376, 383, 390, 402, 408, 421, 428]
+Implementazione: 
+[14, 21, 30, 42, 45, 59, 67, 80, 89, 97, 113, 146, 153, 162, 179, 187, 207, 210, 221, 229, 239, 258, 267, 278, 289, 292, 311, 330, 360, 375, 382, 389, 405]
+
+Confronto tra le Medie degli Array di Onset: 20.025032938076436
+
+Media dei confronti tra onset (in frame) vicini 10: 3.9655172413793105
+In percentuale con il fattore di vicinanza per la comparazione: 39.6551724137931%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 5: libri2
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+43
+Numero di Onset dell'Implementazione: 
+37
+Differenza in Percentuale: 
+13.953488372093023%
+
+Librosa: 
+[11, 24, 31, 35, 41, 48, 60, 66, 83, 110, 128, 136, 141, 152, 173, 180, 185, 192, 199, 202, 234, 236, 240, 253, 263, 276, 279, 290, 296, 305, 314, 317, 327, 330, 335, 343, 357, 366, 376, 378, 391, 397, 428]
+Implementazione: 
+[10, 14, 23, 33, 47, 50, 59, 68, 127, 139, 150, 163, 172, 183, 191, 197, 237, 250, 261, 264, 277, 289, 294, 303, 316, 320, 327, 333, 340, 353, 359, 365, 374, 386, 389, 399, 427]
+
+Confronto tra le Medie degli Array di Onset: 7.851037083595202
+
+Media dei confronti tra onset (in frame) vicini 10: 2.96875
+In percentuale con il fattore di vicinanza per la comparazione: 29.6875%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 6: libri3
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+51
+Numero di Onset dell'Implementazione: 
+42
+Differenza in Percentuale: 
+17.647058823529413%
+
+Librosa: 
+[3, 22, 34, 39, 44, 54, 57, 64, 73, 81, 86, 92, 101, 107, 128, 134, 140, 151, 159, 164, 169, 176, 178, 185, 193, 202, 211, 217, 223, 234, 248, 256, 263, 272, 279, 285, 297, 304, 315, 321, 332, 339, 346, 364, 386, 392, 403, 414, 418, 424, 429]
+Implementazione: 
+[21, 27, 32, 36, 43, 55, 63, 73, 80, 85, 98, 127, 133, 139, 154, 166, 176, 185, 191, 204, 209, 218, 222, 247, 253, 256, 271, 278, 283, 288, 297, 303, 309, 320, 330, 337, 345, 392, 401, 407, 415, 426]
+
+Confronto tra le Medie degli Array di Onset: 0.13585434173668887
+
+Media dei confronti tra onset (in frame) vicini 10: 4.102564102564102
+In percentuale con il fattore di vicinanza per la comparazione: 41.02564102564102%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 7: nutcracker
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+16
+Numero di Onset dell'Implementazione: 
+22
+Differenza in Percentuale: 
+27.27272727272727%
+
+Librosa: 
+[50, 74, 100, 123, 149, 172, 198, 220, 246, 270, 295, 319, 343, 367, 393, 415]
+Implementazione: 
+[49, 73, 98, 122, 148, 171, 180, 196, 219, 222, 244, 247, 269, 293, 318, 342, 366, 375, 391, 400, 406, 414]
+
+Confronto tra le Medie degli Array di Onset: 18.579545454545467
+
+Media dei confronti tra onset (in frame) vicini 10: 1.3333333333333333
+In percentuale con il fattore di vicinanza per la comparazione: 13.333333333333334%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 8: pistachio
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+26
+Numero di Onset dell'Implementazione: 
+27
+Differenza in Percentuale: 
+3.7037037037037033%
+
+Librosa: 
+[5, 17, 23, 33, 59, 76, 94, 105, 129, 148, 166, 175, 202, 220, 237, 255, 273, 292, 304, 309, 320, 345, 363, 381, 390, 416]
+Implementazione: 
+[5, 16, 22, 28, 32, 57, 75, 93, 104, 128, 146, 165, 174, 201, 219, 236, 254, 272, 291, 302, 307, 318, 344, 361, 379, 389, 415]
+
+Confronto tra le Medie degli Array di Onset: 7.750712250712269
+
+Media dei confronti tra onset (in frame) vicini 10: 1.4
+In percentuale con il fattore di vicinanza per la comparazione: 13.999999999999998%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 9: robin
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+13
+Numero di Onset dell'Implementazione: 
+12
+Differenza in Percentuale: 
+7.6923076923076925%
+
+Librosa: 
+[4, 8, 14, 22, 36, 39, 52, 57, 66, 72, 75, 82, 85]
+Implementazione: 
+[7, 10, 21, 24, 34, 47, 56, 59, 62, 70, 81, 84]
+
+Confronto tra le Medie degli Array di Onset: 0.8269230769230802
+
+Media dei confronti tra onset (in frame) vicini 10: 3.8181818181818183
+In percentuale con il fattore di vicinanza per la comparazione: 38.18181818181819%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 10: sweetwaltz
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+24
+Numero di Onset dell'Implementazione: 
+27
+Differenza in Percentuale: 
+11.11111111111111%
+
+Librosa: 
+[18, 35, 53, 70, 87, 104, 122, 139, 156, 173, 190, 208, 225, 242, 259, 277, 294, 311, 328, 345, 363, 380, 397, 414]
+Implementazione: 
+[16, 34, 51, 68, 86, 103, 120, 137, 154, 170, 173, 189, 206, 224, 241, 258, 275, 292, 310, 327, 344, 355, 361, 379, 400, 413, 416]
+
+Confronto tra le Medie degli Array di Onset: 9.75
+
+Media dei confronti tra onset (in frame) vicini 10: 1.8695652173913044
+In percentuale con il fattore di vicinanza per la comparazione: 18.695652173913043%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 11: trumpet
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+16
+Numero di Onset dell'Implementazione: 
+11
+Differenza in Percentuale: 
+31.25%
+
+Librosa: 
+[3, 10, 17, 26, 32, 40, 45, 48, 61, 72, 81, 88, 95, 102, 110, 130]
+Implementazione: 
+[9, 17, 24, 32, 39, 46, 59, 72, 86, 100, 110]
+
+Confronto tra le Medie degli Array di Onset: 6.0
+
+Media dei confronti tra onset (in frame) vicini 10: 5.1
+In percentuale con il fattore di vicinanza per la comparazione: 51.0%
+
+
+
+-----------------------------------------------------------
+
+Traccia numero 12: vibeace
+
+-----------------------------------------------------------
+Numero di Onset di Librosa: 
+42
+Numero di Onset dell'Implementazione: 
+35
+Differenza in Percentuale: 
+16.666666666666664%
+
+Librosa: 
+[3, 12, 22, 47, 52, 63, 72, 83, 93, 102, 112, 127, 132, 142, 152, 162, 181, 206, 211, 236, 261, 286, 291, 300, 311, 320, 331, 337, 340, 348, 356, 367, 370, 377, 382, 392, 396, 401, 411, 416, 420, 430]
+Implementazione: 
+[20, 41, 51, 71, 92, 100, 111, 131, 140, 143, 151, 160, 170, 179, 200, 209, 230, 250, 259, 270, 290, 299, 302, 310, 320, 338, 359, 368, 380, 389, 404, 409, 418, 424, 429]
+
+Confronto tra le Medie degli Array di Onset: 1.1285714285714334
+
+Media dei confronti tra onset (in frame) vicini 10: 4.806451612903226
+In percentuale con il fattore di vicinanza per la comparazione: 48.064516129032256%
